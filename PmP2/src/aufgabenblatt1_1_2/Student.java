@@ -1,4 +1,4 @@
-package aufgabenblatt1;
+package aufgabenblatt1_1_2;
 
 public class Student {
 
